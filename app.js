@@ -1,5 +1,5 @@
 // ---- Point this at your Spin backend ----
-const API_BASE = "http://localhost:5000";
+const API_BASE = "https://coochie.skunk-lungfish.ts.net";
 
 const el = (id) => document.getElementById(id);
 
